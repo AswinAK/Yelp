@@ -8,7 +8,7 @@ import time
 from pprint import pprint
 
 
-target_business_id = "0DI8Dt2PJp07XkVvIElIcQ"
+target_business_id = "0DI8Dt2PJp07XkVvIElIcQ" # this is our target business
 yelp_file_business = "/Users/AswinAk/Downloads/yelp_dataset_challenge_round9/yelp_academic_dataset_business.json"
 
 yelp_similar_businesses = []
