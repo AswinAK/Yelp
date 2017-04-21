@@ -1,0 +1,7 @@
+{"business_id":"0DI8Dt2PJp07XkVvIElIcQ","name":"Innovative Vapors","neighborhood":"","address":"227 E Baseline Rd, Ste J2",
+"city":"Tempe","state":"AZ","postal_code":"85283","latitude":33.3782141,"longitude":-111.936102,"stars":4.5,"review_count":17,
+"is_open":0,"attributes":["BikeParking: True","BusinessAcceptsBitcoin: False","BusinessAcceptsCreditCards: True",
+"BusinessParking: {'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}","DogsAllowed: False",
+"RestaurantsPriceRange2: 2","WheelchairAccessible: True"],"categories":["Tobacco Shops","Nightlife","Vape Shops","Shopping"],
+"hours":["Monday 11:0-21:0","Tuesday 11:0-21:0","Wednesday 11:0-21:0","Thursday 11:0-21:0","Friday 11:0-22:0","Saturday 10:0-22:0",
+"Sunday 11:0-18:0"],"type":"business"}
